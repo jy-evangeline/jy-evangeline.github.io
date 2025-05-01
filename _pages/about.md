@@ -33,7 +33,7 @@ I'm Jingyan Shen. I earned my dual master degree from Tsinghua University and Co
 - **Conformal Tail Risk Control for Large Language Model Alignment**
 
   Catherine Chen,  **Jingyan Shen**, Zhun Deng, Lihua Lei  
-  <span style="color:blue;">ICLR</span> 2025  
+  <span style="color:blue;">ICML</span> 2025  
   \[[Paper](https://arxiv.org/abs/2502.20285)\]
 
 - **TimeInf: Time Series Data Contribution via Influence Functions**
