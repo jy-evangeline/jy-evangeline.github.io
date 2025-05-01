@@ -23,11 +23,18 @@ I'm Jingyan Shen. I earned my dual master degree from Tsinghua University and Co
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 One paper accepted by ICML 2025. 
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024. 
 
 # 📝 Publications 
 (<sup>†</sup>: equal contribution)
+
+- **Conformal Tail Risk Control for Large Language Model Alignment**
+
+  Catherine Chen,  **Jingyan Shen**, Zhun Deng, Lihua Lei  
+  <span style="color:blue;">ICLR</span> 2025  
+  \[[Paper](https://arxiv.org/abs/2502.20285)\]
 
 - **TimeInf: Time Series Data Contribution via Influence Functions**
 
