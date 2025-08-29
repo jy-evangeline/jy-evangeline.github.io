@@ -28,19 +28,21 @@ My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York Universi
 - *2025.01*: &nbsp;🎉🎉 [TimeInf](https://arxiv.org/pdf/2407.15247) has been accepted by ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024. 
 
-# 📝 Preprints
+# 📝 Preprints and Publications 
+(<sup>†</sup>: equal contribution)
+
+Preprints:  
 - **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**
 
   Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang  
   \[[Paper](https://arxiv.org/pdf/2506.05316)\]
 
-# 📝 Publications 
-(<sup>†</sup>: equal contribution)
 
+Publications:  
 - **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
   
   **Jingyan Shen**<sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao  
-  <span style="color:blue;">EMNLP</span> 2025  
+  <span style="color:blue;">EMNLP</span> 2025 (Main)
   \[[Paper](https://arxiv.org/pdf/2505.24846)\]
 
 - **Conformal Tail Risk Control for Large Language Model Alignment**
@@ -48,6 +50,12 @@ My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York Universi
   Catherine Chen,  **Jingyan Shen**, Zhun Deng, Lihua Lei  
   <span style="color:blue;">ICML</span> 2025  
   \[[Paper](https://arxiv.org/abs/2502.20285)\]
+
+- **Rethinking Diverse Human Preference Learning through Principal Component Analysis**
+
+  Feng Luo, Rui Yang, Hao Sun, Chunyuan Deng, Jiarui Yao, **Jingyan Shen**, Huan Zhang, Hanjie Chen
+  <span style="color:blue;">ACL</span> 2025 (Findings)
+  \[[Paper](https://arxiv.org/pdf/2502.13131)\]
 
 - **TimeInf: Time Series Data Contribution via Influence Functions**
 
