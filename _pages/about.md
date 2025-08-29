@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My name is Jingyan Shen. I am a first year CS PhD student at New York University, advised by Prof. \[[Matus Telgarsky](https://cims.nyu.edu/~matus/)\] and Prof. \[[Pavel Izmailov](https://izmailovpavel.github.io/)\]. Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. My research focuses on data-centric machine learning, with recent interests in LLM alignment and improving data efficiency in LLM post-training.
+My name is Jingyan Shen. I am a first year CS PhD student at New York University, advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. My research focuses on data-centric machine learning, with recent interests in LLM alignment and improving data efficiency in LLM post-training.
 
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 MiCRo has been accepted by EMNLP 2025 as a main conference paper! 
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by ICML 2025. 
-- *2025.01*: &nbsp;🎉🎉 \[[TimeInf](https://arxiv.org/pdf/2407.15247)\] has been accepted by ICLR 2025. 
+- *2025.01*: &nbsp;🎉🎉 [TimeInf](https://arxiv.org/pdf/2407.15247) has been accepted by ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024. 
 
 # 📝 Preprints
@@ -40,6 +40,7 @@ My name is Jingyan Shen. I am a first year CS PhD student at New York University
 - **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
   
   **Jingyan Shen**<sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao
+  <span style="color:blue;">EMNLP</span> 2025  
   \[[Paper](https://arxiv.org/pdf/2505.24846)\]
 
 - **Conformal Tail Risk Control for Large Language Model Alignment**
