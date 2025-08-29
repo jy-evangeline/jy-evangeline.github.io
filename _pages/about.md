@@ -18,17 +18,29 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I'm Jingyan Shen. I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. My research interest lies in data-centric machine learning and trustworthy machine learning.
+I'm Jingyan Shen. I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. My research interest lies in data-centric machine learning.
 
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 MiCRo has been accepted by EMNLP 2025 as a main conference paper! 
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by ICML 2025. 
-- *2025.01*: &nbsp;🎉🎉 One paper accepted by ICLR 2025. 
+- *2025.01*: &nbsp;🎉🎉 \[[TimeInf](https://arxiv.org/pdf/2407.15247)\] has been accepted by ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024. 
+
+# 📝 Preprints
+- **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**
+
+  Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang
+  \[[Paper](https://arxiv.org/pdf/2506.05316)\]
 
 # 📝 Publications 
 (<sup>†</sup>: equal contribution)
+
+- **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
+  
+  **Jingyan Shen**<sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao
+  \[[Paper](https://arxiv.org/pdf/2505.24846)\]
 
 - **Conformal Tail Risk Control for Large Language Model Alignment**
 
@@ -80,4 +92,4 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Industry Experience
-- *2024.02 - present*, Full-time machine learning engineer at Pinterest
+- *2024.02 - 2025.06*, Full-time machine learning engineer at Pinterest
