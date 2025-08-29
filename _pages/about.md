@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My name is Jingyan Shen. I am a first year CS PhD student at New York University, advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. My research focuses on data-centric machine learning, with recent interests in LLM alignment and improving data efficiency in LLM post-training.
+My name is Jingyan Shen. I am a first year CS PhD student at New York University, advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. My research focuses on data-centric machine learning, with recent interests in LLM alignment and LLM reasoning.
 
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
