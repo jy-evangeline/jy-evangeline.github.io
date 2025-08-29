@@ -78,11 +78,11 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - Outstanding Graduate Student
 - Graduate Fellowship
 - Outstanding Undergraduate Student
-- National Scholarship 
+- National Scholarship  -->
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -94,3 +94,6 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 
 # 💻 Industry Experience
 - *2024.02 - 2025.06*, Full-time machine learning engineer at Pinterest
+
+# 🌟 Hobbies
+Outside of research, I enjoy playing table tennis and tennis. I’m always excited to dive into a good book or explore new places when I travel.
