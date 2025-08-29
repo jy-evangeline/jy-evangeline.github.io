@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingyan Shen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Real change, enduring change, happens one step at a time."
-  location         : "California, USA"
+  bio              : "Computer Science Graduate Student."
+  location         : "New York, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YBNEBucAAAAJ"
-  email            : "js5544@columbia.edu"
+  email            : "jingyan.s@nyu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
