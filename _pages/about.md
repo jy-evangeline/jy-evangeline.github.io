@@ -23,7 +23,7 @@ My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York Universi
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2025.08*: &nbsp;🚀🚀[MiCRo](https://arxiv.org/pdf/2505.24846) has been accepted by EMNLP 2025 Main Conference (recommended as an **oral** presentation)! 
+- *2025.08*: &nbsp;🚀🚀 [MiCRo](https://arxiv.org/pdf/2505.24846) has been accepted by EMNLP 2025 Main Conference (recommended as an **oral** presentation)! 
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by ICML 2025. 
 - *2025.01*: &nbsp;🎉🎉 [TimeInf](https://arxiv.org/pdf/2407.15247) has been accepted by ICLR 2025. 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024. 
@@ -34,41 +34,35 @@ My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York Universi
 Preprints:  
 - **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**
 
-  Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang  
-  \[[Paper](https://arxiv.org/pdf/2506.05316)\]
+  Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang \[[Paper](https://arxiv.org/pdf/2506.05316)\]
 
 
 Publications:  
 - **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
   
   **Jingyan Shen**<sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao  
-  <span style="color:blue;">EMNLP</span> 2025 (Main)
-  \[[Paper](https://arxiv.org/pdf/2505.24846)\]
+  <span style="color:blue;">EMNLP</span> 2025 (Main) \[[Paper](https://arxiv.org/pdf/2505.24846)\]
 
 - **Conformal Tail Risk Control for Large Language Model Alignment**
 
   Catherine Chen,  **Jingyan Shen**, Zhun Deng, Lihua Lei  
-  <span style="color:blue;">ICML</span> 2025  
-  \[[Paper](https://arxiv.org/abs/2502.20285)\]
+  <span style="color:blue;">ICML</span> 2025 \[[Paper](https://arxiv.org/abs/2502.20285)\]
 
 - **Rethinking Diverse Human Preference Learning through Principal Component Analysis**
 
-  Feng Luo, Rui Yang, Hao Sun, Chunyuan Deng, Jiarui Yao, **Jingyan Shen**, Huan Zhang, Hanjie Chen
-  <span style="color:blue;">ACL</span> 2025 (Findings)
-  \[[Paper](https://arxiv.org/pdf/2502.13131)\]
+  Feng Luo, Rui Yang, Hao Sun, Chunyuan Deng, Jiarui Yao, **Jingyan Shen**, Huan Zhang, Hanjie Chen  
+  <span style="color:blue;">ACL</span> 2025 (Findings) \[[Paper](https://arxiv.org/pdf/2502.13131)\]
 
 - **TimeInf: Time Series Data Contribution via Influence Functions**
 
   Yizi Zhang<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, Yongchan Kwon  
-  <span style="color:blue;">ICLR</span> 2025  
-  \[[Paper](https://arxiv.org/pdf/2407.15247)\] \[[Code](https://github.com/yzhang511/TimeInf)\] 
+  <span style="color:blue;">ICLR</span> 2025 \[[Paper](https://arxiv.org/pdf/2407.15247)\] \[[Code](https://github.com/yzhang511/TimeInf)\] 
 
 
 - **2D-OOB: Attributing Data Contribution through Joint Valuation Framework**
 
   Yifan Sun<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Yongchan Kwon  
-  <span style="color:blue;">NeurIPS</span> 2024  
-  \[[Paper](https://arxiv.org/abs/2408.03572)\] \[[Code](https://github.com/yifansun99/2D-OOB-Joint-Valuation)\] 
+  <span style="color:blue;">NeurIPS</span> 2024 \[[Paper](https://arxiv.org/abs/2408.03572)\] \[[Code](https://github.com/yifansun99/2D-OOB-Joint-Valuation)\] 
 
 
 <!-- 
@@ -86,11 +80,12 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- Outstanding Graduate Student
-- Graduate Fellowship
-- Outstanding Undergraduate Student
-- National Scholarship  -->
+# 🎖 Honors and Awards
+- Outstanding Graduate Student (Top 1%), Tsinghua University, 2024
+- Excellent Graduate Thesis Award, Tsinghua University, 2024
+- Graduate Fellowship, Columbia University, 2023
+- Outstanding Undergraduate Student, Wuhan University, 2021
+- National Scholarship for Undergraduates, Ministry of Education of China, 2018
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
