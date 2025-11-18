@@ -34,15 +34,16 @@ My current research focuses on **advancing the reasoning capabilities of large l
 (<sup>†</sup>: equal contribution)
 
 Publications:  
-- **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**
-
-  Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang
-  <span style="color:blue;">NeurIPS</span> 2025 \[[Paper](https://arxiv.org/pdf/2506.05316)\]
 
 - **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
   
   **Jingyan Shen**<sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao  
   <span style="color:blue;">EMNLP</span> 2025 (Main) <span style="color:red;">Outstanding Paper Award</span> \[[Paper](https://arxiv.org/pdf/2505.24846)\]
+  
+- **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**
+
+  Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang
+  <span style="color:blue;">NeurIPS</span> 2025 \[[Paper](https://arxiv.org/pdf/2506.05316)\]
 
 - **Conformal Tail Risk Control for Large Language Model Alignment**
 
