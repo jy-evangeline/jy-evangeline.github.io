@@ -18,30 +18,31 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York University, advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. My research focuses on data-centric machine learning, with recent interests in LLM alignment and LLM reasoning.
+My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York University, advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. 
+
+My current research focuses on **advancing the reasoning capabilities of large language models through reinforcement learning**, integrating theoretical insights with the development of practical algorithms. 
 
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2025.08*: &nbsp;🚀🚀 [MiCRo](https://arxiv.org/pdf/2505.24846) has been accepted by EMNLP 2025 Main Conference (recommended as an **oral** presentation)! 
+- *2025.09*: &nbsp;🚀🚀 One paper accepted by NeurIPS 2025. See you in San Diego!
+- *2025.08*: &nbsp;🚀🚀 [MiCRo](https://arxiv.org/pdf/2505.24846) has been accepted by EMNLP 2025 Main Conference (with award nomination)! 
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by ICML 2025. 
 - *2025.01*: &nbsp;🎉🎉 [TimeInf](https://arxiv.org/pdf/2407.15247) has been accepted by ICLR 2025. 
-- *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024. 
 
 # 📝 Preprints and Publications 
 (<sup>†</sup>: equal contribution)
 
-Preprints:  
+Publications:  
 - **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**
 
-  Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang \[[Paper](https://arxiv.org/pdf/2506.05316)\]
+  Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang
+  <span style="color:blue;">NeurIPS</span> 2025 \[[Paper](https://arxiv.org/pdf/2506.05316)\]
 
-
-Publications:  
 - **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
   
   **Jingyan Shen**<sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao  
-  <span style="color:blue;">EMNLP</span> 2025 (Main) \[[Paper](https://arxiv.org/pdf/2505.24846)\]
+  <span style="color:blue;">EMNLP</span> 2025 (Main) <span style="color:red;">Outstanding Paper Award</span> \[[Paper](https://arxiv.org/pdf/2505.24846)\]
 
 - **Conformal Tail Risk Control for Large Language Model Alignment**
 
