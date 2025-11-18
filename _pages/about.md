@@ -25,7 +25,7 @@ I am broadly interested in data-centric machine learning and statistical machine
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-- *2025.11* &nbsp:🎉🎉 [MiCRo](https://arxiv.org/pdf/2505.24846) won the EMNLP 2025 Outstanding Paper Award!
+- *2025.11*: &nbsp; 🎉🎉 [MiCRo](https://arxiv.org/pdf/2505.24846) won the EMNLP 2025 Outstanding Paper Award!
 - *2025.09*: &nbsp;🚀🚀 One paper accepted by NeurIPS 2025. See you in San Diego!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by ICML 2025. 
 - *2025.01*: &nbsp;🎉🎉 [TimeInf](https://arxiv.org/pdf/2407.15247) has been accepted by ICLR 2025. 
