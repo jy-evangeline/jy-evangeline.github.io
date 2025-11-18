@@ -37,8 +37,8 @@ Large Language Model Reasoning:
 
 - **When Reasoning Meets Its Laws**, 
 
-Junyu Zhang<sup>†</sup>, Yifan Sun<sup>†</sup>, Tianang Leng<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Ziyin Liu, Paul Pu Liang, Huan Zhang
-Efficient Reasoning Workshop at NeurIPS 2025 (Oral Presentation)
+  Junyu Zhang<sup>†</sup>, Yifan Sun<sup>†</sup>, Tianang Leng<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Ziyin Liu, Paul Pu Liang, Huan Zhang
+  <span style="color:blue;"> Efficient Reasoning Workshop at NeurIPS 2025</span> (Oral Presentation)
 
 - **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**
 
