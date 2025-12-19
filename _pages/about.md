@@ -22,6 +22,8 @@ My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York Universi
 
 I am broadly interested in data-centric machine learning and statistical machine learning. My recent research focuses on LLM post-training, particularly on **advancing the reasoning capabilities of large language models through reinforcement learning**. 
 
+I am also fortunate to work with many great scholars and mentors, and I’m deeply grateful for their guidance.
+
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <!-- # 🔥 News
