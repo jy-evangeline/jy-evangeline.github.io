@@ -24,11 +24,11 @@ I am broadly interested in data-centric machine learning and statistical machine
 
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 🔥 News
+<!-- # 🔥 News
 - *2025.11*: &nbsp; 🎉🎉 [MiCRo](https://arxiv.org/pdf/2505.24846) won the EMNLP 2025 Outstanding Paper Award!
 - *2025.09*: &nbsp;🚀🚀 One paper accepted by NeurIPS 2025. See you in San Diego!
 - *2025.05*: &nbsp;🎉🎉 One paper accepted by ICML 2025. 
-- *2025.01*: &nbsp;🎉🎉 [TimeInf](https://arxiv.org/pdf/2407.15247) has been accepted by ICLR 2025. 
+- *2025.01*: &nbsp;🎉🎉 [TimeInf](https://arxiv.org/pdf/2407.15247) has been accepted by ICLR 2025.  -->
 
 # 📝 Preprints and Publications 
 (<sup>†</sup>: equal contribution)
@@ -50,7 +50,7 @@ Large Language Model Alignment:
 - **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
   
   **Jingyan Shen**<sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao  
-  <span style="color:blue;">EMNLP</span> 2025 (Main) <span style="color:red;">Outstanding Paper Award</span> \[[Paper](https://arxiv.org/pdf/2505.24846)\]
+  <span style="color:blue;">EMNLP</span> 2025 (Main) <span style="color:red;">Outstanding Paper Award 🏆</span> \[[Paper](https://arxiv.org/pdf/2505.24846)\]
 
 - **Conformal Tail Risk Control for Large Language Model Alignment**
 
@@ -108,5 +108,5 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 # 💻 Industry Experience
 - *2024.02 - 2025.06*, Full-time machine learning engineer at Pinterest
 
-# 🌟 Hobbies
-Outside of research, I enjoy playing table tennis and tennis. I’m always excited to dive into a good book or explore new places when I travel.
+# 🌟 Miscs
+I value the diversity and richness of life, and I hold a deep respect for beauty and purity in all their forms. Beyond research, I enjoy playing table tennis and tennis, losing myself in a good book, or discovering new places through travel. My recent favorite novels include *Flowers for Algernon* and *My Name Is Red*. I am also a big fan of Stephen Sondheim’s musicals, particularly *Company* and *Sunday in the Park with George*. Born in Guangzhou, I’m picky about food and I particularly enjoy Japanese and Cantonese cuisine for their focus on fresh ingredients and natural flavors.
