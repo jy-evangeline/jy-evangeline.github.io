@@ -20,7 +20,7 @@ redirect_from:
 
 My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York University, advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. 
 
-I am broadly interested in data-centric machine learning and statistical machine learning. My recent research focuses on LLM post-training, particularly on **advancing the reasoning capabilities of large language models through reinforcement learning**. 
+My recent research focuses on LLM post-training, particularly on **advancing the reasoning capabilities of large language models through reinforcement learning**. I am broadly interested in data-centric machine learning and statistical machine learning. 
 
 I am also fortunate to work with many great scholars and mentors, and I’m deeply grateful for their guidance.
 
