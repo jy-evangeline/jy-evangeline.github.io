@@ -35,43 +35,43 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 # 📝 Preprints and Publications 
 (<sup>†</sup>: equal contribution)
 
-Large Language Model Reasoning:
+When Can LLMs Learn to Reason with Weak Supervision?
+Salman Rahman<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, Hamid Palangi, Saadia Gabriel, Pavel Izmailov
+\[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https://salmanrahman.net/rlvr-weak-supervision)\] 
 
-- **When Reasoning Meets Its Laws**
+**When Reasoning Meets Its Laws**
 
   Junyu Zhang<sup>†</sup>, Yifan Sun<sup>†</sup>, Tianang Leng<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Ziyin Liu, Paul Pu Liang, Huan Zhang  
   <span style="color:blue;"> Efficient Reasoning Workshop at NeurIPS 2025</span> (Oral Presentation, <span style="color:red;">Best Paper Nomination</span>) \[[Paper](https://arxiv.org/pdf/2512.17901)\] \[[Website](https://lore-project.github.io/)\] 
 
-- **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**
+**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**
 
   Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang  
   <span style="color:blue;">NeurIPS</span> 2025 \[[Paper](https://arxiv.org/pdf/2506.05316)\]
 
-Large Language Model Alignment:
 
-- **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
+**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
   
   **Jingyan Shen**<sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao  
   <span style="color:blue;">EMNLP</span> 2025 (Main) <span style="color:red;">Outstanding Paper Award 🏆</span> \[[Paper](https://arxiv.org/pdf/2505.24846)\]
 
-- **Conformal Tail Risk Control for Large Language Model Alignment**
+**Conformal Tail Risk Control for Large Language Model Alignment**
 
   Catherine Chen,  **Jingyan Shen**, Zhun Deng, Lihua Lei  
   <span style="color:blue;">ICML</span> 2025 \[[Paper](https://arxiv.org/abs/2502.20285)\]
 
-- **Rethinking Diverse Human Preference Learning through Principal Component Analysis**
+**Rethinking Diverse Human Preference Learning through Principal Component Analysis**
 
   Feng Luo, Rui Yang, Hao Sun, Chunyuan Deng, Jiarui Yao, **Jingyan Shen**, Huan Zhang, Hanjie Chen  
   <span style="color:blue;">ACL</span> 2025 (Findings) \[[Paper](https://arxiv.org/pdf/2502.13131)\]
 
-Data-centric Machine Learning:
-- **TimeInf: Time Series Data Contribution via Influence Functions**
+**TimeInf: Time Series Data Contribution via Influence Functions**
 
   Yizi Zhang<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, Yongchan Kwon  
   <span style="color:blue;">ICLR</span> 2025 \[[Paper](https://arxiv.org/pdf/2407.15247)\] \[[Code](https://github.com/yzhang511/TimeInf)\] 
 
 
-- **2D-OOB: Attributing Data Contribution through Joint Valuation Framework**
+**2D-OOB: Attributing Data Contribution through Joint Valuation Framework**
 
   Yifan Sun<sup>†</sup>,  **Jingyan Shen**<sup>†</sup>, Yongchan Kwon  
   <span style="color:blue;">NeurIPS</span> 2024 \[[Paper](https://arxiv.org/abs/2408.03572)\] \[[Code](https://github.com/yifansun99/2D-OOB-Joint-Valuation)\] 
