@@ -39,6 +39,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 Salman Rahman<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, Hamid Palangi, Saadia Gabriel, Pavel Izmailov  
 Preprint. \[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https://salmanrahman.net/rlvr-weak-supervision)\] 
 
+**Adversarially Robust Control of Conditional Value-at-Risk via Kelly Conformal Inference**  
+Catherine Chen, Jingyan Shen, Zhun Deng, Lihua Lei
+<span style="color:blue;">ICML</span> 2026
+
 **When Reasoning Meets Its Laws**
 
   Junyu Zhang<sup>†</sup>, Yifan Sun<sup>†</sup>, Tianang Leng<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Ziyin Liu, Paul Pu Liang, Huan Zhang  
