@@ -20,7 +20,7 @@ redirect_from:
 
 My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York University, advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. 
 
-My recent research focuses on LLM post-training, particularly on **advancing the reasoning capabilities of large language models through reinforcement learning**. I am broadly interested in data-centric machine learning and statistical machine learning. 
+I am broadly interested in machine learning and statistics. My recent research focuses on reinforcement learning for reasoning and planning in language models, with an emphasis on understanding when and why RL produces generalizable reasoning behavior. In particular, my work studies how RL can elicit reasoning from scarce or weak supervision and how pretraining shapes the scaling and policy dynamics of RL-based post-training.
 
 I am also fortunate to work with many great scholars and mentors, and I’m deeply grateful for their guidance.
 
@@ -40,7 +40,7 @@ Salman Rahman<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, Hami
 Preprint. \[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https://salmanrahman.net/rlvr-weak-supervision)\] 
 
 **Adversarially Robust Control of Conditional Value-at-Risk via Kelly Conformal Inference**  
-Catherine Chen, Jingyan Shen, Zhun Deng, Lihua Lei
+Catherine Chen, Jingyan Shen, Zhun Deng, Lihua Lei  
 <span style="color:blue;">ICML</span> 2026
 
 **When Reasoning Meets Its Laws**
