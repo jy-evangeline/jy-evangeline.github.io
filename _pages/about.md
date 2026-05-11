@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York University, advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. 
+My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York University (Courant Institute), advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. 
 
 I am broadly interested in machine learning and statistics. My recent research focuses on reinforcement learning for reasoning and planning in language models, with an emphasis on understanding when and why RL produces generalizable reasoning behavior. In particular, my work studies how RL can elicit reasoning from scarce or weak supervision and how pretraining shapes the scaling and policy dynamics of RL-based post-training.
 
