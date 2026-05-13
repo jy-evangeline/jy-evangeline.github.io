@@ -97,6 +97,7 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- ICML 2026 Gold Reviewer, 2026
 - Outstanding Graduate Student (Top 1%), Tsinghua University, 2024
 - Excellent Graduate Thesis Award, Tsinghua University, 2024
 - Graduate Fellowship, Columbia University, 2023
