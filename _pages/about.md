@@ -57,9 +57,9 @@ Preprint. \[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https:/
 
 <div class="scroll-box scroll-box--pub" markdown="1">
 
-**Adversarially Robust Control of Conditional Value-at-Risk via Kelly Conformal Inference**  
+**Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference**  
 Catherine Chen, **Jingyan Shen**, Zhun Deng, Lihua Lei  
-<span style="color:blue;">ICML</span> 2026
+<span style="color:blue;">ICML</span> 2026 \[[Paper](https://arxiv.org/abs/2606.00320)]
 
 **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
 
