@@ -42,6 +42,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 
 <div class="scroll-box scroll-box--pub" markdown="1">
 
+**Understanding Reasoning from Pretraining to Post-Training**  
+**Jingyan Shen**, Ang Li, Salman Rahman, Yifan Sun, Micah Goldblum, Matus Telgarsky, Pavel Izmailov  
+Preprint. \[[Paper](https://arxiv.org/abs/2607.16097)\]
+
 **When Can LLMs Learn to Reason with Weak Supervision?**  
 Salman Rahman<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, Hamid Palangi, Saadia Gabriel, Pavel Izmailov  
 Preprint. \[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https://salmanrahman.net/rlvr-weak-supervision)\]
