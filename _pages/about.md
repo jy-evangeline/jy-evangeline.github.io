@@ -20,7 +20,7 @@ redirect_from:
 
 My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York University (Courant Institute), advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. 
 
-I am broadly interested in machine learning and statistics, with a current focus on reinforcement learning for reasoning and planning. My current research studies when and why RL-based post-training improves reasoning in large language models. In particular, I am interested in:
+I am broadly interested in machine learning and statistics. My current research studies when and why RL-based post-training improves reasoning in large language models. In particular, I am interested in:
 
 - **RL scaling and model priors**: how the benefits and dynamics of RL post-training are shaped by what a model has already learned during pretraining or supervised fine-tuning.
 - **Weak-to-strong generalization**: how RL can elicit stronger reasoning from limited, noisy, or weak supervision.
@@ -40,61 +40,83 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 # 🔬 Preprints & Workshops
 (<sup>†</sup>: equal contribution)
 
-<div class="scroll-box scroll-box--pub" markdown="1">
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/understanding-reasoning.png' alt="Understanding Reasoning from Pretraining to Post-Training" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Understanding Reasoning from Pretraining to Post-Training**  
-**Jingyan Shen**<sup>†</sup>, Ang Li<sup>†</sup>, Salman Rahman, Yifan Sun, Micah Goldblum, Matus Telgarsky, Pavel Izmailov  
-Preprint. \[[Paper](https://arxiv.org/abs/2607.16097)\]
+**Jingyan Shen**<sup>†</sup>, [Ang Li](https://leonlixyz.github.io/)<sup>†</sup>, [Salman Rahman](https://salmanrahman.net/), [Yifan Sun](https://yifansun99.github.io/), [Micah Goldblum](https://goldblum.github.io/), [Matus Telgarsky](https://cims.nyu.edu/~matus/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
+Preprint. \[[Paper](https://arxiv.org/abs/2607.16097)\] \[[Code](https://github.com/pavelslab-nyu/pre2post-chess)\]
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/weak-supervision.png' alt="When Can LLMs Learn to Reason with Weak Supervision?" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **When Can LLMs Learn to Reason with Weak Supervision?**  
-Salman Rahman<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, Hamid Palangi, Saadia Gabriel, Pavel Izmailov  
+[Salman Rahman](https://salmanrahman.net/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, [Hamid Palangi](https://www.hamidpalangi.com/), [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
 Preprint. \[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https://salmanrahman.net/rlvr-weak-supervision)\]
 
-**When Reasoning Meets Its Laws**
+</div>
+</div>
 
-  Junyu Zhang<sup>†</sup>, Yifan Sun<sup>†</sup>, Tianang Leng<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Ziyin Liu, Paul Pu Liang, Huan Zhang  
-  <span style="color:blue;">Efficient Reasoning Workshop at NeurIPS 2025</span> (Oral Presentation, <span style="color:red;">Best Paper Nomination</span>) \[[Paper](https://arxiv.org/pdf/2512.17901)\] \[[Website](https://lore-project.github.io/)\]
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Workshop</div><img src='images/papers/reasoning-laws.png' alt="When Reasoning Meets Its Laws" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**When Reasoning Meets Its Laws**  
+[Junyu Zhang](https://jyzhang1208.github.io/)<sup>†</sup>, [Yifan Sun](https://yifansun99.github.io/)<sup>†</sup>, [Tianang Leng](https://dragondescentzerotsu.github.io/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, [Ziyin Liu](https://www.mit.edu/~ziyinl/), [Paul Pu Liang](https://pliang279.github.io/), [Huan Zhang](https://www.huan-zhang.com/)  
+<span style="color:blue;">Efficient Reasoning Workshop at NeurIPS 2025</span> (Oral Presentation, <span style="color:red;">Best Paper Nomination</span>) \[[Paper](https://arxiv.org/pdf/2512.17901)\] \[[Website](https://lore-project.github.io/)\]
+
+</div>
 </div>
 
 # 🔬 Selected Publications
 
-<div class="scroll-box scroll-box--pub" markdown="1">
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/robust-cvar.png' alt="Adversarially Robust Control of Conditional Value-at-Risk" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference**  
-Catherine Chen, **Jingyan Shen**, Zhun Deng, Lihua Lei  
+[Catherine Chen](https://icme.stanford.edu/people/catherine-chen), **Jingyan Shen**, [Zhun Deng](https://www.zhundeng.org/), [Lihua Lei](https://lihualei71.github.io/)  
 <span style="color:blue;">ICML</span> 2026 \[[Paper](https://arxiv.org/abs/2606.00320)]
 
-**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**
+</div>
+</div>
 
-  **Jingyan Shen**<sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao  
-  <span style="color:blue;">EMNLP</span> 2025 (Main) <span style="color:red;">Outstanding Paper Award 🏆</span> \[[Paper](https://arxiv.org/pdf/2505.24846)\]
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/papers/micro.png' alt="MiCRo" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**
+**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**  
+**Jingyan Shen**<sup>†</sup>, [Jiarui Yao](https://maxwelljryao.github.io/)<sup>†</sup>, [Rui Yang](https://yangrui2015.github.io/)<sup>†</sup>, [Yifan Sun](https://yifansun99.github.io/), Feng Luo, [Rui Pan](https://research4pan.github.io/), [Tong Zhang](https://tongzhang-ml.org/), [Han Zhao](https://hanzhaoml.github.io/)  
+<span style="color:blue;">EMNLP</span> 2025 (Main) <span style="color:red;">Outstanding Paper Award 🏆</span> \[[Paper](https://arxiv.org/pdf/2505.24846)\]
 
-  Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang  
-  <span style="color:blue;">NeurIPS</span> 2025 \[[Paper](https://arxiv.org/pdf/2506.05316)\]
+</div>
+</div>
 
-**Conformal Tail Risk Control for Large Language Model Alignment**
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/data-efficiency-rft.png' alt="Difficulty-targeted Online Data Selection and Rollout Replay" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  Catherine Chen,  **Jingyan Shen**, Zhun Deng, Lihua Lei  
-  <span style="color:blue;">ICML</span> 2025 \[[Paper](https://arxiv.org/abs/2502.20285)\]
+**Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**  
+[Yifan Sun](https://yifansun99.github.io/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, [Yibin Wang](https://yibinwang.netlify.app/)<sup>†</sup>, [Tianyu Chen](https://tianyucodings.github.io/), [Zhendong Wang](https://zhendong-wang.github.io/), [Mingyuan Zhou](https://mingyuanzhou.github.io/), [Huan Zhang](https://www.huan-zhang.com/)  
+<span style="color:blue;">NeurIPS</span> 2025 \[[Paper](https://arxiv.org/pdf/2506.05316)\]
 
-**Rethinking Diverse Human Preference Learning through Principal Component Analysis**
+</div>
+</div>
 
-  Feng Luo, Rui Yang, Hao Sun, Chunyuan Deng, Jiarui Yao, **Jingyan Shen**, Huan Zhang, Hanjie Chen  
-  <span style="color:blue;">ACL</span> 2025 (Findings) \[[Paper](https://arxiv.org/pdf/2502.13131)\]
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/timeinf.png' alt="TimeInf: Time Series Data Contribution via Influence Functions" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-**TimeInf: Time Series Data Contribution via Influence Functions**
+**TimeInf: Time Series Data Contribution via Influence Functions**  
+[Yizi Zhang](https://yzhang511.github.io)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, [Yongchan Kwon](https://scholar.google.co.jp/citations?user=PElI4ikAAAAJ&hl=en)  
+<span style="color:blue;">ICLR</span> 2025 \[[Paper](https://arxiv.org/pdf/2407.15247)\] \[[Code](https://github.com/yzhang511/TimeInf)\]
 
-  Yizi Zhang<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, Yongchan Kwon  
-  <span style="color:blue;">ICLR</span> 2025 \[[Paper](https://arxiv.org/pdf/2407.15247)\] \[[Code](https://github.com/yzhang511/TimeInf)\]
-
-**2D-OOB: Attributing Data Contribution through Joint Valuation Framework**
-
-  Yifan Sun<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Yongchan Kwon  
-  <span style="color:blue;">NeurIPS</span> 2024 \[[Paper](https://arxiv.org/abs/2408.03572)\] \[[Code](https://github.com/yifansun99/2D-OOB-Joint-Valuation)\]
-
+</div>
 </div>
 
 <!-- 
