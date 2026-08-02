@@ -156,4 +156,4 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 - *2024.02 - 2025.06*, Full-time machine learning engineer at Pinterest
 
 # 🐰 Miscs
-I value the diversity and richness of life, and I hold a deep respect for beauty and purity in all their forms. Beyond research, I enjoy playing table tennis and tennis, playing drums, losing myself in a good book, or discovering new places through travel. My recent favorite books include *Flowers for Algernon* and *Why Fish Don't Exist*. I am also a big fan of Stephen Sondheim’s musicals, particularly *Company* and *Sunday in the Park with George*. Born in Guangzhou, I’m picky about food and I particularly enjoy Japanese and Cantonese cuisine for their focus on fresh ingredients and natural flavors.
+I value the diversity and richness of life, and I hold a deep respect for beauty and purity in all their forms. Beyond research, I enjoy playing table tennis and tennis, playing drums, losing myself in a good book, or discovering new places through travel.
