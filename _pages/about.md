@@ -152,7 +152,7 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 👾 Industry Experience
-- *2026.05 - 2026.08*, Research Intern at **Microsoft Research (NYC)**
+- *2026.05 - 2026.08*, Research Intern at Microsoft Research (NYC)
   - I was fortunate to work with [Akshay Krishnamurthy](https://www.microsoft.com/en-us/research/people/akshaykr/), [Jordan T. Ash](https://www.jordantash.com/), and [Stephanie Milani](https://stephmilani.github.io/).
 - *2024.02 - 2025.06*, Full-time machine learning engineer at Pinterest
 
