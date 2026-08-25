@@ -18,24 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My name is Jingyan Shen. I am a first-year CS Ph.D. student at New York University (Courant Institute), advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. 
+My name is Jingyan Shen. I am a second-year CS Ph.D. student at New York University (Courant Institute), advised by Prof. [Matus Telgarsky](https://cims.nyu.edu/~matus/) and Prof. [Pavel Izmailov](https://izmailovpavel.github.io/). Previously, I earned my dual master degree from Tsinghua University and Columbia University. Prior to this, I completed my Bachelor's degree at Wuhan University, majoring in Statistics. 
 
 I am broadly interested in machine learning and statistics. My current research studies when and why RL-based post-training improves reasoning in large language models. In particular, I am interested in:
 
 - **RL scaling and model priors**: how the benefits and dynamics of RL post-training are shaped by what a model has already learned during pretraining or supervised fine-tuning.
 - **Weak-to-strong generalization**: how RL can elicit stronger reasoning from limited, noisy, or weak supervision.
-- **Continual self-improvement**: how LLMs can improve beyond fixed human-curated data through self-play, self-generated curricula, and verifier-guided exploration.
+- **Continual self-improvement**: how LLMs can improve beyond fixed human-curated data through synthetic data and self-generated curricula.
 
 I am also fortunate to work with many great scholars and mentors, and I’m deeply grateful for their guidance.
 
 <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 🗞 News
+<!-- # 🗞 News
 <div class="scroll-box scroll-box--news" markdown="1">
-- *2026.06*: &nbsp;🌃 Joining **Microsoft Research (NYC)** as a Research Intern in Summer 2026! Feel free to reach out if you would like to connect or chat about research!
 - *2026.05*: &nbsp;🏅 Selected as an **ICML 2026 Gold Reviewer**.
 - *2025.11*: &nbsp;🎉 [MiCRo](https://arxiv.org/pdf/2505.24846) received the **EMNLP 2025 Outstanding Paper Award**!
-</div>
+</div> -->
 
 # 🔬 Preprints & Workshops
 (<sup>†</sup>: equal contribution)
@@ -153,6 +152,8 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 👾 Industry Experience
+- *2026.05 - 2026.08*, Research Intern at **Microsoft Research (NYC)**
+  - I was fortunate to work with [Akshay Krishnamurthy](https://www.microsoft.com/en-us/research/people/akshaykr/), [Jordan T. Ash](https://www.jordantash.com/), and [Stephanie Milani](https://stephmilani.github.io/).
 - *2024.02 - 2025.06*, Full-time machine learning engineer at Pinterest
 
 # 🐰 Miscs
