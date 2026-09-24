@@ -36,43 +36,31 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 - *2025.11*: &nbsp;🎉 [MiCRo](https://arxiv.org/pdf/2505.24846) received the **EMNLP 2025 Outstanding Paper Award**!
 </div> -->
 
-# 🔬 Preprints & Workshops
+# 🔬 Selected Publications
 (<sup>†</sup>: equal contribution)
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/understanding-reasoning.png' alt="Understanding Reasoning from Pretraining to Post-Training" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/understanding-reasoning.png' alt="Understanding Reasoning from Pretraining to Post-Training" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Understanding Reasoning from Pretraining to Post-Training**  
 **Jingyan Shen**<sup>†</sup>, [Ang Li](https://leonlixyz.github.io/)<sup>†</sup>, [Salman Rahman](https://salmanrahman.net/), [Yifan Sun](https://yifansun99.github.io/), [Micah Goldblum](https://goldblum.github.io/), [Matus Telgarsky](https://cims.nyu.edu/~matus/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
-Preprint. \[[Paper](https://arxiv.org/abs/2607.16097)\] \[[Code](https://github.com/pavelslab-nyu/pre2post-chess)\]
+<span style="color:blue;">NeurIPS</span> 2026 \[[Paper](https://arxiv.org/abs/2607.16097)\] \[[Code](https://github.com/pavelslab-nyu/pre2post-chess)\]
 
 </div>
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/weak-supervision.png' alt="When Can LLMs Learn to Reason with Weak Supervision?" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**When Can LLMs Learn to Reason with Weak Supervision?**  
-[Salman Rahman](https://salmanrahman.net/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, [Hamid Palangi](https://www.hamidpalangi.com/), [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
-Preprint. \[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https://salmanrahman.net/rlvr-weak-supervision)\]
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Workshop</div><img src='images/papers/reasoning-laws.png' alt="When Reasoning Meets Its Laws" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/reasoning-laws.png' alt="When Reasoning Meets Its Laws" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **When Reasoning Meets Its Laws**  
 [Junyu Zhang](https://jyzhang1208.github.io/)<sup>†</sup>, [Yifan Sun](https://yifansun99.github.io/)<sup>†</sup>, [Tianang Leng](https://dragondescentzerotsu.github.io/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, [Ziyin Liu](https://www.mit.edu/~ziyinl/), [Paul Pu Liang](https://pliang279.github.io/), [Huan Zhang](https://www.huan-zhang.com/)  
-<span style="color:blue;">Efficient Reasoning Workshop at NeurIPS 2025</span> (Oral Presentation, <span style="color:red;">Best Paper Nomination</span>) \[[Paper](https://arxiv.org/pdf/2512.17901)\] \[[Website](https://lore-project.github.io/)\]
+<span style="color:blue;">NeurIPS</span> 2026 \[[Paper](https://arxiv.org/pdf/2512.17901)\] \[[Website](https://lore-project.github.io/)\]  
+<span style="color:blue;">Efficient Reasoning Workshop at NeurIPS 2025</span> (Oral Presentation, <span style="color:red;">Best Paper Nomination</span>)
 
 </div>
 </div>
-
-# 🔬 Selected Publications
 
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/robust-cvar.png' alt="Adversarially Robust Control of Conditional Value-at-Risk" width="100%"></div></div>
@@ -132,6 +120,19 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+# 🔬 Preprints & Workshops
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/weak-supervision.png' alt="When Can LLMs Learn to Reason with Weak Supervision?" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**When Can LLMs Learn to Reason with Weak Supervision?**  
+[Salman Rahman](https://salmanrahman.net/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, [Hamid Palangi](https://www.hamidpalangi.com/), [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
+Preprint. \[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https://salmanrahman.net/rlvr-weak-supervision)\]
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - ICML 2026 Gold Reviewer, 2026
