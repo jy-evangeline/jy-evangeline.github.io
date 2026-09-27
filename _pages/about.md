@@ -95,17 +95,6 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 </div>
 </div>
 
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/papers/timeinf.png' alt="TimeInf: Time Series Data Contribution via Influence Functions" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**TimeInf: Time Series Data Contribution via Influence Functions**  
-[Yizi Zhang](https://yzhang511.github.io)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, [Yongchan Kwon](https://scholar.google.co.jp/citations?user=PElI4ikAAAAJ&hl=en)  
-<span style="color:blue;">ICLR</span> 2025 \[[Paper](https://arxiv.org/pdf/2407.15247)\] \[[Code](https://github.com/yzhang511/TimeInf)\]
-
-</div>
-</div>
-
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
