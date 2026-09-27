@@ -154,7 +154,7 @@ Preprint. \[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https:/
 
 # 👾 Industry Experience
 - *2026.05 - 2026.08*, Research Intern at Microsoft Research (NYC)
-  - I was fortunate to work with [Akshay Krishnamurthy](https://www.microsoft.com/en-us/research/people/akshaykr/), [Jordan T. Ash](https://www.jordantash.com/), and [Stephanie Milani](https://stephmilani.github.io/).
+  - I was very fortunate to work with [Stephanie Milani](https://stephmilani.github.io/), [Akshay Krishnamurthy](https://www.microsoft.com/en-us/research/people/akshaykr/), and [Jordan T. Ash](https://www.jordantash.com/).
 - *2024.02 - 2025.06*, Full-time machine learning engineer at Pinterest
 
 # 🐰 Miscs
