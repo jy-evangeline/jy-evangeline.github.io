@@ -23,6 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingyan Shen"
   avatar           : "images/android-chrome-512x512.png"
+  avatar_alt       : "images/avatar-alt.png"  # shown when the avatar is clicked
   bio              : "Computer Science Graduate Student."
   location         : "New York, USA"
   employer         :

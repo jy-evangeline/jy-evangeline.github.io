@@ -113,6 +113,17 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 # 🔬 Preprints & Workshops
 
 <div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Workshop</div><img src='images/papers/leanprm.png' alt="LeanPRM: Lean-Grounded Supervision for Natural Language Proof Verification" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LeanPRM: Lean-Grounded Supervision for Natural Language Proof Verification**  
+Rodney Lafuente-Mercado<sup>†</sup>, [Salman Rahman](https://salmanrahman.net/)<sup>†</sup>, **Jingyan Shen**, James Shiffer, [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
+<span style="color:blue;">MATH-AI Workshop at NeurIPS 2026</span>
+
+</div>
+</div>
+
+<div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/weak-supervision.png' alt="When Can LLMs Learn to Reason with Weak Supervision?" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
