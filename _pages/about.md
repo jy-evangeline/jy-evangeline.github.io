@@ -22,9 +22,9 @@ My name is Jingyan Shen. I am a second-year CS Ph.D. student at New York Univers
 
 I am broadly interested in machine learning and statistics. My current research studies when and why RL-based post-training improves reasoning in large language models. In particular, I am interested in:
 
-- **RL scaling and model priors**: how the benefits and dynamics of RL post-training are shaped by what a model has already learned during pretraining or supervised fine-tuning.
-- **Weak-to-strong generalization**: how RL can elicit stronger reasoning from limited, noisy, or weak supervision.
-- **Continual self-improvement**: how LLMs can improve beyond fixed human-curated data through synthetic data and self-generated curricula.
+- Understanding how reasoning capabilities emerge from pretraining to post-training
+- Scalable verification and RL environments
+- Continual self-improvement
 
 I am also fortunate to work with many great scholars and mentors, and I’m deeply grateful for their guidance.
 
