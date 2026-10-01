@@ -40,7 +40,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 (<sup>†</sup>: equal contribution)
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/understanding-reasoning.png' alt="Understanding Reasoning from Pretraining to Post-Training" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='images/papers/understanding-reasoning.png' alt="Understanding Reasoning from Pretraining to Post-Training" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Understanding Reasoning from Pretraining to Post-Training**  
@@ -51,7 +51,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/papers/reasoning-laws.png' alt="When Reasoning Meets Its Laws" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='images/papers/reasoning-laws.png' alt="When Reasoning Meets Its Laws" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **When Reasoning Meets Its Laws**  
@@ -63,7 +63,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/robust-cvar.png' alt="Adversarially Robust Control of Conditional Value-at-Risk" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='images/papers/robust-cvar.png' alt="Adversarially Robust Control of Conditional Value-at-Risk" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference**  
@@ -74,7 +74,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/papers/micro.png' alt="MiCRo" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='images/papers/micro.png' alt="MiCRo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**  
@@ -85,7 +85,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 </div>
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/data-efficiency-rft.png' alt="Difficulty-targeted Online Data Selection and Rollout Replay" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='images/papers/data-efficiency-rft.png' alt="Difficulty-targeted Online Data Selection and Rollout Replay" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**  
@@ -113,18 +113,7 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 # 🔬 Preprints & Workshops
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Workshop</div><img src='images/papers/leanprm.png' alt="LeanPRM: Lean-Grounded Supervision for Natural Language Proof Verification" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**LeanPRM: Lean-Grounded Supervision for Natural Language Proof Verification**  
-Rodney Lafuente-Mercado<sup>†</sup>, [Salman Rahman](https://salmanrahman.net/)<sup>†</sup>, **Jingyan Shen**, James Shiffer, [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
-<span style="color:blue;">MATH-AI Workshop at NeurIPS 2026</span>
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/papers/weak-supervision.png' alt="When Can LLMs Learn to Reason with Weak Supervision?" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='images/papers/weak-supervision.png' alt="When Can LLMs Learn to Reason with Weak Supervision?" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **When Can LLMs Learn to Reason with Weak Supervision?**  

@@ -42,53 +42,56 @@
 
 .paper-box {
     display: flex;
-    justify-content: left;
-    align-items: center;
+    justify-content: flex-start;
+    align-items: flex-start;
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    padding: 1em 0;
 
     .paper-box-image{
-        justify-content: center;
         display: flex;
+        justify-content: flex-start;
         width: 100%;
         order: 2;
+        margin-top: 1em;
+        > div { width: 100%; }
         img {
+            display: block;
             width: 100%;
-            max-width: 240px;
-            margin-top: 1.8em;
-            aspect-ratio: 3 / 2;
+            aspect-ratio: 16 / 9;
             background: #fff;
-            box-shadow: 3px 3px 6px #888;
+            border: 1px solid #eee;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
             object-fit: contain;
         }
     }
-    
+
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        > p:first-child { margin-top: 0; }
+        > p:last-child  { margin-bottom: 0; }
     }
-    
+
     @include breakpoint($medium) {
+        flex-wrap: nowrap;
+
         .paper-box-image{
-            justify-content: center;
-            min-width: 200px;
-            max-width: 40%;
+            flex: 0 0 34%;
+            max-width: 34%;
+            margin-top: 0;
             order: 1;
         }
-        
+
         .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
+            flex: 1 1 auto;
+            padding-left: 1.2em;
+            max-width: none;
             order: 2;
         }
-
     }
-
-
 }
 
 $scroll_offset : 2em;
@@ -106,7 +109,8 @@ h1:before, .anchor:before {
     padding-right: 1rem;
     position: absolute;
     margin-top: .5em;
-    margin-left: -.5em;
+    margin-left: 0;
+    border-radius: 0 3px 3px 0;
     color: white;
     background-color: #00369f;
     font-size: .8em;
