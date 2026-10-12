@@ -147,4 +147,6 @@ Preprint. \[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https:/
 - *2024.02 - 2025.06*, Full-time machine learning engineer at Pinterest
 
 # 🐰 Miscs
-I value the diversity and richness of life, and I hold a deep respect for beauty and purity in all their forms. Beyond research, I enjoy playing table tennis and tennis, playing drums, losing myself in a good book, or discovering new places through travel.
+I value the diversity and richness of life, and I hold a deep respect for beauty and purity in all their forms. Beyond research, I enjoy playing table tennis and tennis, losing myself in a good book, or discovering new places through travel.
+
+I also love music and singing, and I'd love to keep learning the drums whenever I find the time! 🥁
