@@ -2,3 +2,45 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<!-- Click a paper figure to enlarge it -->
+<div class="fig-lb" id="fig-lb" hidden>
+  <div class="fig-lb-panel"><img alt=""><p></p></div>
+</div>
+<script>
+  (function () {
+    var lb = document.getElementById('fig-lb');
+    var img = lb.querySelector('img'), cap = lb.querySelector('p');
+    function close() {
+      lb.classList.remove('open');
+      setTimeout(function () { lb.hidden = true; }, 220);
+    }
+    document.querySelectorAll('.paper-box-image > div').forEach(function (frame) {
+      frame.addEventListener('click', function () {
+        var src = frame.querySelector('img');
+        img.src = src.src;
+        cap.textContent = src.alt;
+        lb.hidden = false;
+        requestAnimationFrame(function () { lb.classList.add('open'); });
+      });
+    });
+    lb.addEventListener('click', close);
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !lb.hidden) close(); });
+  })();
+</script>
+
+<!-- Publications: Selected / All tabs -->
+<script>
+  (function () {
+    var tabs = document.querySelectorAll('.pub-tabs [role="tab"]');
+    tabs.forEach(function (tab) {
+      tab.addEventListener('click', function () {
+        tabs.forEach(function (t) {
+          var on = t === tab;
+          t.setAttribute('aria-selected', on);
+          document.getElementById(t.getAttribute('aria-controls')).hidden = !on;
+        });
+      });
+    });
+  })();
+</script>

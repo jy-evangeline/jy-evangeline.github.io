@@ -43,11 +43,18 @@
 .paper-box {
     display: flex;
     justify-content: flex-start;
-    align-items: flex-start;
+    align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 1em 0;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 1.3em 0;
+    border-radius: 4px;
+    transition: background .2s ease, box-shadow .2s ease;
+
+    &:hover {
+        background: #f6f8fb;
+        box-shadow: 0 0 0 10px #f6f8fb;
+    }
 
     .paper-box-image{
         display: flex;
@@ -55,16 +62,52 @@
         width: 100%;
         order: 2;
         margin-top: 1em;
-        > div { width: 100%; }
+
+        > div {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 170px;
+            padding: 8px;
+            overflow: hidden;
+            cursor: zoom-in;
+            background: #fff;
+            border: 1px solid #e6e4df;
+            border-radius: 12px;
+            transition: transform .25s cubic-bezier(.2, .8, .2, 1), box-shadow .25s cubic-bezier(.2, .8, .2, 1), border-color .25s;
+
+            // Magnifier badge, shown on hover
+            &::after {
+                content: '';
+                position: absolute;
+                right: 8px;
+                bottom: 8px;
+                width: 26px;
+                height: 26px;
+                border-radius: 8px;
+                background: rgba(19, 41, 75, .86) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2.4' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='6.5'/%3E%3Cpath d='M20 20l-4.2-4.2M11 8.5v5M8.5 11h5'/%3E%3C/svg%3E") center / 14px no-repeat;
+                opacity: 0;
+                transform: translateY(4px);
+                transition: opacity .2s, transform .2s cubic-bezier(.2, .8, .2, 1);
+            }
+
+            &:hover {
+                transform: translateY(-2px);
+                border-color: #d9dde5;
+                box-shadow: 0 14px 28px -18px rgba(16, 24, 40, .45);
+                img { transform: scale(1.04); }
+                &::after { opacity: 1; transform: none; }
+            }
+        }
+
         img {
             display: block;
             width: 100%;
-            aspect-ratio: 16 / 9;
-            background: #fff;
-            border: 1px solid #eee;
-            border-radius: 6px;
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+            height: 100%;
             object-fit: contain;
+            transition: transform .45s cubic-bezier(.2, .8, .2, 1);
         }
     }
 
@@ -79,18 +122,159 @@
         flex-wrap: nowrap;
 
         .paper-box-image{
-            flex: 0 0 34%;
-            max-width: 34%;
+            flex: 0 0 220px;
+            max-width: 220px;
             margin-top: 0;
             order: 1;
+            > div { height: 130px; }
         }
 
         .paper-box-text{
             flex: 1 1 auto;
-            padding-left: 1.2em;
+            padding-left: 1.6em;
             max-width: none;
             order: 2;
         }
+    }
+}
+
+// Publications: Selected / All tabs
+.pub-tabs {
+    display: inline-flex;
+    gap: 4px;
+    padding: 4px;
+    margin: .4em 0 .6em;
+    border-radius: 10px;
+    background: #edf2fa;
+
+    button {
+        padding: 5px 16px;
+        border: 0;
+        border-radius: 7px;
+        background: transparent;
+        font-size: .85em;
+        font-weight: 600;
+        color: #6b717b;
+        cursor: pointer;
+        transition: background .2s, color .2s, box-shadow .2s;
+
+        &:hover { color: #1a1d23; }
+        &[aria-selected="true"] {
+            background: #fff;
+            color: #13294b;
+            box-shadow: 0 1px 3px rgba(16, 24, 40, .12);
+        }
+    }
+}
+
+.pc-year {
+    margin: 1.2em 0 .2em;
+    font-size: .95em;
+    color: #13294b;
+}
+
+.pc-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.pc {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2px;
+    padding: .75em 0;
+    border-bottom: 1px solid #f0f0f0;
+    border-radius: 4px;
+    transition: background .2s ease, box-shadow .2s ease;
+
+    &:last-child { border-bottom: 0; }
+    &:hover {
+        background: #f6f8fb;
+        box-shadow: 0 0 0 10px #f6f8fb;
+    }
+
+    @include breakpoint($medium) {
+        grid-template-columns: 150px 1fr;
+        gap: 18px;
+    }
+}
+
+.pc-venue {
+    padding-top: 2px;
+    font-size: .78em;
+    font-weight: 600;
+    line-height: 1.4;
+    color: #13294b;
+}
+
+.pc-title {
+    display: block;
+    font-size: .95em;
+    font-weight: 600;
+    line-height: 1.45;
+    color: #1a1d23;
+}
+
+a.pc-title {
+    text-decoration: none;
+    &:hover { color: #1d4f96; text-decoration: underline; }
+}
+
+.pc-authors, .pc-note {
+    display: block;
+    margin-top: 2px;
+    font-size: .85em;
+    line-height: 1.5;
+    color: #6b717b;
+}
+
+.pc-note { color: #b3470c; }
+
+// Figure lightbox (opened by clicking a paper figure)
+.fig-lb {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    background: rgba(14, 20, 32, .62);
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+    opacity: 0;
+    transition: opacity .22s ease;
+    cursor: zoom-out;
+
+    &[hidden] { display: none; }
+    &.open { opacity: 1; }
+
+    .fig-lb-panel {
+        max-width: min(1180px, 100%);
+        max-height: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        padding: 18px 18px 14px;
+        border-radius: 16px;
+        background: #fff;
+        box-shadow: 0 30px 80px -30px rgba(0, 0, 0, .55);
+        transform: translateY(10px) scale(.97);
+        transition: transform .28s cubic-bezier(.2, .8, .2, 1);
+    }
+    &.open .fig-lb-panel { transform: none; }
+
+    img {
+        max-width: 100%;
+        max-height: calc(100vh - 150px);
+        object-fit: contain;
+    }
+    p {
+        margin: 0;
+        font-size: 14px;
+        line-height: 1.45;
+        font-weight: 600;
     }
 }
 
