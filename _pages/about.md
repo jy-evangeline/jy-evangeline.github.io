@@ -94,6 +94,13 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
   <li class="pc">
     <span class="pc-venue">NeurIPS 2026</span>
     <div>
+      <span class="pc-title">Your Benchmark Is an Empirical Measure Over Difficulty</span>
+      <span class="pc-authors">Yifan Sun<sup>†</sup>, Naicheng Yu<sup>†</sup>, Jiawen Gong<sup>†</sup>, <b>Jingyan Shen</b>, Huan Zhang</span>
+    </div>
+  </li>
+  <li class="pc">
+    <span class="pc-venue">NeurIPS 2026</span>
+    <div>
       <a class="pc-title" href="https://arxiv.org/pdf/2512.17901">When Reasoning Meets Its Laws</a>
       <span class="pc-authors">Junyu Zhang<sup>†</sup>, Yifan Sun<sup>†</sup>, Tianang Leng<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Ziyin Liu, Paul Pu Liang, Huan Zhang</span>
       <span class="pc-note">Efficient Reasoning Workshop at NeurIPS 2025 · Oral, Best Paper Nomination</span>
