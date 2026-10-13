@@ -96,6 +96,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     <div>
       <span class="pc-title">Your Benchmark Is an Empirical Measure Over Difficulty</span>
       <span class="pc-authors">Yifan Sun<sup>†</sup>, Naicheng Yu<sup>†</sup>, Jiawen Gong<sup>†</sup>, <b>Jingyan Shen</b>, Huan Zhang</span>
+      <span class="pc-note">Evaluations and Datasets Track</span>
     </div>
   </li>
   <li class="pc">
