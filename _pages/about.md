@@ -92,11 +92,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     </div>
   </li>
   <li class="pc">
-    <span class="pc-venue">NeurIPS 2026</span>
+    <span class="pc-venue">NeurIPS 2026<span class="pc-track">Evaluations and Datasets Track</span></span>
     <div>
       <span class="pc-title">Your Benchmark Is an Empirical Measure Over Difficulty</span>
       <span class="pc-authors">Yifan Sun<sup>†</sup>, Naicheng Yu<sup>†</sup>, Jiawen Gong<sup>†</sup>, <b>Jingyan Shen</b>, Huan Zhang</span>
-      <span class="pc-note">Evaluations and Datasets Track</span>
     </div>
   </li>
   <li class="pc">
