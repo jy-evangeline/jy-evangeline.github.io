@@ -52,7 +52,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 
 **Understanding Reasoning from Pretraining to Post-Training**  
 **Jingyan Shen**<sup>†</sup>, [Ang Li](https://leonlixyz.github.io/)<sup>†</sup>, [Salman Rahman](https://salmanrahman.net/), [Yifan Sun](https://yifansun99.github.io/), [Micah Goldblum](https://goldblum.github.io/), [Matus Telgarsky](https://cims.nyu.edu/~matus/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
-<span style="color:blue;">NeurIPS</span> 2026 \[[Paper](https://arxiv.org/abs/2607.16097)\] \[[Code](https://github.com/pavelslab-nyu/pre2post-chess)\]
+<span style="color:blue;">NeurIPS</span> 2026; <span style="color:blue;">Pre-to-Post @ NeurIPS</span> 2026 <span style="color:red;">(Oral)</span> \[[Paper](https://arxiv.org/abs/2607.16097)\] \[[Code](https://github.com/pavelslab-nyu/pre2post-chess)\]
 
 </div>
 </div>
@@ -89,6 +89,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     <div>
       <a class="pc-title" href="https://arxiv.org/abs/2607.16097">Understanding Reasoning from Pretraining to Post-Training</a>
       <span class="pc-authors"><b>Jingyan Shen</b><sup>†</sup>, Ang Li<sup>†</sup>, Salman Rahman, Yifan Sun, Micah Goldblum, Matus Telgarsky, Pavel Izmailov</span>
+      <span class="pc-note">Pre-to-Post @ NeurIPS 2026 · Oral</span>
     </div>
   </li>
   <li class="pc">
