@@ -239,6 +239,22 @@ a.pc-title {
 
 .pc-note { color: #b3470c; }
 
+// Paper / Code / Website links under an entry
+.pc-links {
+    display: block;
+    margin-top: 4px;
+    font-size: .8em;
+    line-height: 1.5;
+
+    a {
+        margin-right: .9em;
+        font-weight: 600;
+        color: #1d4f96;
+        text-decoration: none;
+        &:hover { text-decoration: underline; }
+    }
+}
+
 // Figure lightbox (opened by clicking a paper figure)
 .fig-lb {
     position: fixed;

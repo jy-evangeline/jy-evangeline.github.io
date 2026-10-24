@@ -74,7 +74,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 
 **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**  
 [Yifan Sun](https://yifansun99.github.io/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, [Yibin Wang](https://yibinwang.netlify.app/)<sup>†</sup>, [Tianyu Chen](https://tianyucodings.github.io/), [Zhendong Wang](https://zhendong-wang.github.io/), [Mingyuan Zhou](https://mingyuanzhou.github.io/), [Huan Zhang](https://www.huan-zhang.com/)  
-<span style="color:blue;">NeurIPS</span> 2025 \[[Paper](https://arxiv.org/pdf/2506.05316)\]
+<span style="color:blue;">NeurIPS</span> 2025 \[[Paper](https://arxiv.org/pdf/2506.05316)\] \[[Code](https://github.com/ASTRAL-Group/data-efficient-llm-rl)\]
 
 </div>
 </div>
@@ -90,13 +90,15 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
       <a class="pc-title" href="https://arxiv.org/abs/2607.16097">Understanding Reasoning from Pretraining to Post-Training</a>
       <span class="pc-authors"><b>Jingyan Shen</b><sup>†</sup>, Ang Li<sup>†</sup>, Salman Rahman, Yifan Sun, Micah Goldblum, Matus Telgarsky, Pavel Izmailov</span>
       <span class="pc-note">Pre-to-Post @ NeurIPS 2026 · Oral</span>
+      <span class="pc-links"><a href="https://arxiv.org/abs/2607.16097">Paper</a><a href="https://github.com/pavelslab-nyu/pre2post-chess">Code</a></span>
     </div>
   </li>
   <li class="pc">
     <span class="pc-venue">NeurIPS 2026<span class="pc-track">Evaluations and Datasets Track</span></span>
     <div>
-      <span class="pc-title">Your Benchmark Is an Empirical Measure Over Difficulty</span>
+      <a class="pc-title" href="https://arxiv.org/abs/2610.29927">Your Benchmark Is an Empirical Measure Over Difficulty</a>
       <span class="pc-authors">Yifan Sun<sup>†</sup>, Naicheng Yu<sup>†</sup>, Jiawen Gong<sup>†</sup>, <b>Jingyan Shen</b>, Huan Zhang</span>
+      <span class="pc-links"><a href="https://arxiv.org/abs/2610.29927">Paper</a><a href="https://github.com/ASTRAL-Group/benchmark-difficulty-measure">Code</a><a href="https://benchmark-difficulty-measure.github.io/">Website</a></span>
     </div>
   </li>
   <li class="pc">
@@ -105,6 +107,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
       <a class="pc-title" href="https://arxiv.org/pdf/2512.17901">When Reasoning Meets Its Laws</a>
       <span class="pc-authors">Junyu Zhang<sup>†</sup>, Yifan Sun<sup>†</sup>, Tianang Leng<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Ziyin Liu, Paul Pu Liang, Huan Zhang</span>
       <span class="pc-note">Efficient Reasoning Workshop at NeurIPS 2025 · Oral, Best Paper Nomination</span>
+      <span class="pc-links"><a href="https://arxiv.org/pdf/2512.17901">Paper</a><a href="https://lore-project.github.io/">Website</a></span>
     </div>
   </li>
   <li class="pc">
@@ -112,6 +115,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     <div>
       <a class="pc-title" href="https://arxiv.org/abs/2606.00320">Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference</a>
       <span class="pc-authors">Catherine Chen, <b>Jingyan Shen</b>, Zhun Deng, Lihua Lei</span>
+      <span class="pc-links"><a href="https://arxiv.org/abs/2606.00320">Paper</a></span>
     </div>
   </li>
   <li class="pc">
@@ -126,6 +130,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     <div>
       <a class="pc-title" href="https://arxiv.org/abs/2604.18574">When Can LLMs Learn to Reason with Weak Supervision?</a>
       <span class="pc-authors">Salman Rahman<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Anna Mordvina, Hamid Palangi, Saadia Gabriel, Pavel Izmailov</span>
+      <span class="pc-links"><a href="https://arxiv.org/abs/2604.18574">Paper</a><a href="https://salmanrahman.net/rlvr-weak-supervision">Project Page</a></span>
     </div>
   </li>
 </ul>
@@ -137,6 +142,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
       <a class="pc-title" href="https://arxiv.org/pdf/2505.24846">MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning</a>
       <span class="pc-authors"><b>Jingyan Shen</b><sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao</span>
       <span class="pc-note">Outstanding Paper Award 🏆</span>
+      <span class="pc-links"><a href="https://arxiv.org/pdf/2505.24846">Paper</a></span>
     </div>
   </li>
   <li class="pc">
@@ -144,27 +150,31 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     <div>
       <a class="pc-title" href="https://arxiv.org/pdf/2506.05316">Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay</a>
       <span class="pc-authors">Yifan Sun<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang</span>
+      <span class="pc-links"><a href="https://arxiv.org/pdf/2506.05316">Paper</a><a href="https://github.com/ASTRAL-Group/data-efficient-llm-rl">Code</a></span>
     </div>
   </li>
   <li class="pc">
     <span class="pc-venue">ICML 2025</span>
     <div>
-      <span class="pc-title">Conformal Tail Risk Control for Large Language Model Alignment</span>
+      <a class="pc-title" href="https://arxiv.org/abs/2502.20285">Conformal Tail Risk Control for Large Language Model Alignment</a>
       <span class="pc-authors">Catherine Chen, <b>Jingyan Shen</b>, Zhun Deng, Lihua Lei</span>
+      <span class="pc-links"><a href="https://arxiv.org/abs/2502.20285">Paper</a></span>
     </div>
   </li>
   <li class="pc">
     <span class="pc-venue">ICLR 2025</span>
     <div>
-      <span class="pc-title">TimeInf: Time Series Data Contribution via Influence Functions</span>
+      <a class="pc-title" href="https://arxiv.org/pdf/2407.15247">TimeInf: Time Series Data Contribution via Influence Functions</a>
       <span class="pc-authors">Yizi Zhang<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, Yongchan Kwon</span>
+      <span class="pc-links"><a href="https://arxiv.org/pdf/2407.15247">Paper</a><a href="https://github.com/yzhang511/TimeInf">Code</a></span>
     </div>
   </li>
   <li class="pc">
     <span class="pc-venue">ACL 2025 Findings</span>
     <div>
-      <span class="pc-title">Rethinking Diverse Human Preference Learning through Principal Component Analysis</span>
+      <a class="pc-title" href="https://arxiv.org/pdf/2502.13131">Rethinking Diverse Human Preference Learning through Principal Component Analysis</a>
       <span class="pc-authors">Feng Luo<sup>†</sup>, Rui Yang<sup>†</sup>, Hao Sun, Chunyuan Deng, Jiarui Yao, <b>Jingyan Shen</b>, Huan Zhang, Hanjie Chen</span>
+      <span class="pc-links"><a href="https://arxiv.org/pdf/2502.13131">Paper</a><a href="https://github.com/amandaluof/DRMs">Code</a></span>
     </div>
   </li>
 </ul>
@@ -173,8 +183,9 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
   <li class="pc">
     <span class="pc-venue">NeurIPS 2024</span>
     <div>
-      <span class="pc-title">2D-OOB: Attributing Data Contribution through Joint Valuation Framework</span>
+      <a class="pc-title" href="https://arxiv.org/abs/2408.03572">2D-OOB: Attributing Data Contribution through Joint Valuation Framework</a>
       <span class="pc-authors">Yifan Sun<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Yongchan Kwon</span>
+      <span class="pc-links"><a href="https://arxiv.org/abs/2408.03572">Paper</a><a href="https://github.com/yifansun99/2D-OOB-Joint-Valuation">Code</a></span>
     </div>
   </li>
 </ul>
