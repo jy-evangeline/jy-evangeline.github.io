@@ -52,7 +52,18 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 
 **Understanding Reasoning from Pretraining to Post-Training**  
 **Jingyan Shen**<sup>†</sup>, [Ang Li](https://leonlixyz.github.io/)<sup>†</sup>, [Salman Rahman](https://salmanrahman.net/), [Yifan Sun](https://yifansun99.github.io/), [Micah Goldblum](https://goldblum.github.io/), [Matus Telgarsky](https://cims.nyu.edu/~matus/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
-<span style="color:blue;">NeurIPS</span> 2026; <span style="color:blue;">Pre-to-Post @ NeurIPS</span> 2026 <span style="color:red;">(Oral)</span> \[[Paper](https://arxiv.org/abs/2607.16097)\] \[[Code](https://github.com/pavelslab-nyu/pre2post-chess)\]
+<span style="color:blue;">NeurIPS</span> 2026; <span style="color:blue;">Pre-to-Post @ NeurIPS</span> 2026 <span style="color:red;">(Oral)</span><span class="pc-links"><a href="https://arxiv.org/abs/2607.16097">Paper</a><a href="https://github.com/pavelslab-nyu/pre2post-chess">Code</a></span>
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/papers/robust-cvar.png' alt="Adversarially Robust Control of Conditional Value-at-Risk" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference**  
+[Catherine Chen](https://icme.stanford.edu/people/catherine-chen), **Jingyan Shen**, [Zhun Deng](https://www.zhundeng.org/), [Lihua Lei](https://lihualei71.github.io/)  
+<span style="color:blue;">ICML</span> 2026<span class="pc-links"><a href="https://arxiv.org/abs/2606.00320">Paper</a></span>
 
 </div>
 </div>
@@ -63,7 +74,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 
 **MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**  
 **Jingyan Shen**<sup>†</sup>, [Jiarui Yao](https://maxwelljryao.github.io/)<sup>†</sup>, [Rui Yang](https://yangrui2015.github.io/)<sup>†</sup>, [Yifan Sun](https://yifansun99.github.io/), Feng Luo, [Rui Pan](https://research4pan.github.io/), [Tong Zhang](https://tongzhang-ml.org/), [Han Zhao](https://hanzhaoml.github.io/)  
-<span style="color:blue;">EMNLP</span> 2025 (Main) <span style="color:red;">Outstanding Paper Award 🏆</span> \[[Paper](https://arxiv.org/pdf/2505.24846)\]
+<span style="color:blue;">EMNLP</span> 2025 (Main) <span style="color:red;">Outstanding Paper Award 🏆</span><span class="pc-links"><a href="https://arxiv.org/pdf/2505.24846">Paper</a></span>
 
 </div>
 </div>
@@ -74,7 +85,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 
 **Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay**  
 [Yifan Sun](https://yifansun99.github.io/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, [Yibin Wang](https://yibinwang.netlify.app/)<sup>†</sup>, [Tianyu Chen](https://tianyucodings.github.io/), [Zhendong Wang](https://zhendong-wang.github.io/), [Mingyuan Zhou](https://mingyuanzhou.github.io/), [Huan Zhang](https://www.huan-zhang.com/)  
-<span style="color:blue;">NeurIPS</span> 2025 \[[Paper](https://arxiv.org/pdf/2506.05316)\] \[[Code](https://github.com/ASTRAL-Group/data-efficient-llm-rl)\]
+<span style="color:blue;">NeurIPS</span> 2025<span class="pc-links"><a href="https://arxiv.org/pdf/2506.05316">Paper</a><a href="https://github.com/ASTRAL-Group/data-efficient-llm-rl">Code</a></span>
 
 </div>
 </div>
@@ -98,6 +109,7 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     <div>
       <a class="pc-title" href="https://arxiv.org/abs/2610.29927">Your Benchmark Is an Empirical Measure Over Difficulty</a>
       <span class="pc-authors">Yifan Sun<sup>†</sup>, Naicheng Yu<sup>†</sup>, Jiawen Gong<sup>†</sup>, <b>Jingyan Shen</b>, Huan Zhang</span>
+      <span class="pc-note">Can We Trust AI Evaluation? (TAE) Workshop at NeurIPS 2026</span>
       <span class="pc-links"><a href="https://arxiv.org/abs/2610.29927">Paper</a><a href="https://github.com/ASTRAL-Group/benchmark-difficulty-measure">Code</a><a href="https://benchmark-difficulty-measure.github.io/">Website</a></span>
     </div>
   </li>
@@ -215,7 +227,7 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 
 **LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification**  
 Rodney Lafuente-Mercado, [Salman Rahman](https://salmanrahman.net/), **Jingyan Shen**, James Shiffer, [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
-<span style="color:blue;">MATH-AI Workshop at NeurIPS 2026</span> \[[Paper](https://arxiv.org/html/2610.17697)\] \[[Code](https://github.com/pavelslab-nyu/LeanPRM)\]
+<span style="color:blue;">MATH-AI Workshop at NeurIPS 2026</span><span class="pc-links"><a href="https://arxiv.org/html/2610.17697">Paper</a><a href="https://github.com/pavelslab-nyu/LeanPRM">Code</a></span>
 
 </div>
 </div>
@@ -226,7 +238,7 @@ Rodney Lafuente-Mercado, [Salman Rahman](https://salmanrahman.net/), **Jingyan S
 
 **When Can LLMs Learn to Reason with Weak Supervision?**  
 [Salman Rahman](https://salmanrahman.net/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, [Hamid Palangi](https://www.hamidpalangi.com/), [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
-Preprint. \[[Paper](https://arxiv.org/abs/2604.18574)\] \[[Project Page](https://salmanrahman.net/rlvr-weak-supervision)\]
+Preprint.<span class="pc-links"><a href="https://arxiv.org/abs/2604.18574">Paper</a><a href="https://salmanrahman.net/rlvr-weak-supervision">Project Page</a></span>
 
 </div>
 </div>
