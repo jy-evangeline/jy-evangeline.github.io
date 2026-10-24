@@ -121,8 +121,9 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
   <li class="pc">
     <span class="pc-venue">MATH-AI @ NeurIPS 2026</span>
     <div>
-      <span class="pc-title">Training Natural-Language Proof Verifiers with Lean-Grounded Synthetic Data</span>
+      <a class="pc-title" href="https://arxiv.org/html/2610.17697">LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification</a>
       <span class="pc-authors">Rodney Lafuente-Mercado, Salman Rahman, <b>Jingyan Shen</b>, James Shiffer, Saadia Gabriel, Pavel Izmailov</span>
+      <span class="pc-links"><a href="https://arxiv.org/html/2610.17697">Paper</a><a href="https://github.com/pavelslab-nyu/LeanPRM">Code</a></span>
     </div>
   </li>
   <li class="pc">
@@ -209,12 +210,12 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 # 🔬 Preprints & Workshops
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><img src='images/papers/leanprm.png' alt="Training Natural-Language Proof Verifiers with Lean-Grounded Synthetic Data" width="100%"></div></div>
+<div class='paper-box-image'><div><img src='images/papers/leanprm.png' alt="LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Training Natural-Language Proof Verifiers with Lean-Grounded Synthetic Data**  
+**LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification**  
 Rodney Lafuente-Mercado, [Salman Rahman](https://salmanrahman.net/), **Jingyan Shen**, James Shiffer, [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
-<span style="color:blue;">MATH-AI Workshop at NeurIPS 2026</span>
+<span style="color:blue;">MATH-AI Workshop at NeurIPS 2026</span> \[[Paper](https://arxiv.org/html/2610.17697)\] \[[Code](https://github.com/pavelslab-nyu/LeanPRM)\]
 
 </div>
 </div>
