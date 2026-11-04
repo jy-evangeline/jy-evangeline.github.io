@@ -36,13 +36,14 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 - *2025.11*: &nbsp;🎉 [MiCRo](https://arxiv.org/pdf/2505.24846) received the **EMNLP 2025 Outstanding Paper Award**!
 </div> -->
 
-# 🔬 Publications
-(<sup>†</sup>: equal contribution)
+# Publications
 
 <div class="pub-tabs" role="tablist" aria-label="Publication view">
   <button role="tab" id="tab-selected" aria-controls="panel-selected" aria-selected="true">Selected</button>
   <button role="tab" id="tab-all" aria-controls="panel-all" aria-selected="false">All</button>
 </div>
+
+(<sup>†</sup>: equal contribution)
 
 <div class="pub-panel" id="panel-selected" role="tabpanel" aria-labelledby="tab-selected" markdown="1">
 
@@ -64,6 +65,17 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 **Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference**  
 [Catherine Chen](https://icme.stanford.edu/people/catherine-chen), **Jingyan Shen**, [Zhun Deng](https://www.zhundeng.org/), [Lihua Lei](https://lihualei71.github.io/)  
 <span style="color:blue;">ICML</span> 2026<span class="pc-links"><a href="https://arxiv.org/abs/2606.00320">Paper</a></span>
+
+</div>
+</div>
+
+<div class='paper-box'>
+<div class='paper-box-image'><div><img src='images/papers/weak-supervision.png' alt="When Can LLMs Learn to Reason with Weak Supervision?" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**When Can LLMs Learn to Reason with Weak Supervision?**  
+[Salman Rahman](https://salmanrahman.net/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, [Hamid Palangi](https://www.hamidpalangi.com/), [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
+<span style="color:blue;">Preprint</span> 2026<span class="pc-links"><a href="https://arxiv.org/abs/2604.18574">Paper</a><a href="https://salmanrahman.net/rlvr-weak-supervision">Project Page</a></span>
 
 </div>
 </div>
@@ -96,7 +108,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 <h3 class="pc-year">2026</h3>
 <ul class="pc-list">
   <li class="pc">
-    <span class="pc-venue">NeurIPS 2026</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/understanding-reasoning.png" alt="Understanding Reasoning from Pretraining to Post-Training"></div>
+      <span class="pc-venue">NeurIPS 2026</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/abs/2607.16097">Understanding Reasoning from Pretraining to Post-Training</a>
       <span class="pc-authors"><b>Jingyan Shen</b><sup>†</sup>, Ang Li<sup>†</sup>, Salman Rahman, Yifan Sun, Micah Goldblum, Matus Telgarsky, Pavel Izmailov</span>
@@ -105,7 +120,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     </div>
   </li>
   <li class="pc">
-    <span class="pc-venue">NeurIPS 2026<span class="pc-track">Evaluations and Datasets Track</span></span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/benchmark-difficulty.png" alt="Your Benchmark Is an Empirical Measure Over Difficulty"></div>
+      <span class="pc-venue">NeurIPS 2026<span class="pc-track">Evaluations and Datasets Track</span></span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/abs/2610.29927">Your Benchmark Is an Empirical Measure Over Difficulty</a>
       <span class="pc-authors">Yifan Sun<sup>†</sup>, Naicheng Yu<sup>†</sup>, Jiawen Gong<sup>†</sup>, <b>Jingyan Shen</b>, Huan Zhang</span>
@@ -114,7 +132,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     </div>
   </li>
   <li class="pc">
-    <span class="pc-venue">NeurIPS 2026</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/reasoning-laws.png" alt="When Reasoning Meets Its Laws"></div>
+      <span class="pc-venue">NeurIPS 2026</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/pdf/2512.17901">When Reasoning Meets Its Laws</a>
       <span class="pc-authors">Junyu Zhang<sup>†</sup>, Yifan Sun<sup>†</sup>, Tianang Leng<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Ziyin Liu, Paul Pu Liang, Huan Zhang</span>
@@ -123,7 +144,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     </div>
   </li>
   <li class="pc">
-    <span class="pc-venue">ICML 2026</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/robust-cvar.png" alt="Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference"></div>
+      <span class="pc-venue">ICML 2026</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/abs/2606.00320">Adversarially Robust Control of Conditional Value-at-Risk via Rockafellar-Uryasev Conformal Inference</a>
       <span class="pc-authors">Catherine Chen, <b>Jingyan Shen</b>, Zhun Deng, Lihua Lei</span>
@@ -131,7 +155,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     </div>
   </li>
   <li class="pc">
-    <span class="pc-venue">MATH-AI @ NeurIPS 2026</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/leanprm.png" alt="LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification"></div>
+      <span class="pc-venue">MATH-AI @ NeurIPS 2026</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/html/2610.17697">LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification</a>
       <span class="pc-authors">Rodney Lafuente-Mercado, Salman Rahman, <b>Jingyan Shen</b>, James Shiffer, Saadia Gabriel, Pavel Izmailov</span>
@@ -139,7 +166,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     </div>
   </li>
   <li class="pc">
-    <span class="pc-venue">Preprint</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/weak-supervision.png" alt="When Can LLMs Learn to Reason with Weak Supervision?"></div>
+      <span class="pc-venue">Preprint</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/abs/2604.18574">When Can LLMs Learn to Reason with Weak Supervision?</a>
       <span class="pc-authors">Salman Rahman<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Anna Mordvina, Hamid Palangi, Saadia Gabriel, Pavel Izmailov</span>
@@ -150,7 +180,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 <h3 class="pc-year">2025</h3>
 <ul class="pc-list">
   <li class="pc">
-    <span class="pc-venue">EMNLP 2025</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/micro.png" alt="MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning"></div>
+      <span class="pc-venue">EMNLP 2025</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/pdf/2505.24846">MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning</a>
       <span class="pc-authors"><b>Jingyan Shen</b><sup>†</sup>, Jiarui Yao<sup>†</sup>, Rui Yang<sup>†</sup>, Yifan Sun, Feng Luo, Rui Pan, Tong Zhang, Han Zhao</span>
@@ -159,7 +192,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     </div>
   </li>
   <li class="pc">
-    <span class="pc-venue">NeurIPS 2025</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/data-efficiency-rft.png" alt="Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay"></div>
+      <span class="pc-venue">NeurIPS 2025</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/pdf/2506.05316">Improving Data Efficiency for LLM Reinforcement Fine-tuning Through Difficulty-targeted Online Data Selection and Rollout Replay</a>
       <span class="pc-authors">Yifan Sun<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Yibin Wang<sup>†</sup>, Tianyu Chen, Zhendong Wang, Mingyuan Zhou, Huan Zhang</span>
@@ -167,7 +203,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     </div>
   </li>
   <li class="pc">
-    <span class="pc-venue">ICML 2025</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/conformal-tail-risk.png" alt="Conformal Tail Risk Control for Large Language Model Alignment"></div>
+      <span class="pc-venue">ICML 2025</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/abs/2502.20285">Conformal Tail Risk Control for Large Language Model Alignment</a>
       <span class="pc-authors">Catherine Chen, <b>Jingyan Shen</b>, Zhun Deng, Lihua Lei</span>
@@ -175,7 +214,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     </div>
   </li>
   <li class="pc">
-    <span class="pc-venue">ICLR 2025</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/timeinf.png" alt="TimeInf: Time Series Data Contribution via Influence Functions"></div>
+      <span class="pc-venue">ICLR 2025</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/pdf/2407.15247">TimeInf: Time Series Data Contribution via Influence Functions</a>
       <span class="pc-authors">Yizi Zhang<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Xiaoxue Xiong<sup>†</sup>, Yongchan Kwon</span>
@@ -183,7 +225,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
     </div>
   </li>
   <li class="pc">
-    <span class="pc-venue">ACL 2025 Findings</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/drm.png" alt="Rethinking Diverse Human Preference Learning through Principal Component Analysis"></div>
+      <span class="pc-venue">ACL 2025 Findings</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/pdf/2502.13131">Rethinking Diverse Human Preference Learning through Principal Component Analysis</a>
       <span class="pc-authors">Feng Luo<sup>†</sup>, Rui Yang<sup>†</sup>, Hao Sun, Chunyuan Deng, Jiarui Yao, <b>Jingyan Shen</b>, Huan Zhang, Hanjie Chen</span>
@@ -194,7 +239,10 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
 <h3 class="pc-year">2024</h3>
 <ul class="pc-list">
   <li class="pc">
-    <span class="pc-venue">NeurIPS 2024</span>
+    <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/2d-oob.png" alt="2D-OOB: Attributing Data Contribution through Joint Valuation Framework"></div>
+      <span class="pc-venue">NeurIPS 2024</span>
+    </div>
     <div>
       <a class="pc-title" href="https://arxiv.org/abs/2408.03572">2D-OOB: Attributing Data Contribution through Joint Valuation Framework</a>
       <span class="pc-authors">Yifan Sun<sup>†</sup>, <b>Jingyan Shen</b><sup>†</sup>, Yongchan Kwon</span>
@@ -219,40 +267,6 @@ Yizi Zhang$^\dag$,  **Jingyan Shen**$^\dag$, Xiaoxue Xiong$^\dag$, and Yongchan 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🔬 Preprints & Workshops
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><img src='images/papers/leanprm.png' alt="LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification**  
-Rodney Lafuente-Mercado, [Salman Rahman](https://salmanrahman.net/), **Jingyan Shen**, James Shiffer, [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
-<span style="color:blue;">MATH-AI Workshop at NeurIPS 2026</span><span class="pc-links"><a href="https://arxiv.org/html/2610.17697">Paper</a><a href="https://github.com/pavelslab-nyu/LeanPRM">Code</a></span>
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'><div><img src='images/papers/weak-supervision.png' alt="When Can LLMs Learn to Reason with Weak Supervision?" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**When Can LLMs Learn to Reason with Weak Supervision?**  
-[Salman Rahman](https://salmanrahman.net/)<sup>†</sup>, **Jingyan Shen**<sup>†</sup>, Anna Mordvina, [Hamid Palangi](https://www.hamidpalangi.com/), [Saadia Gabriel](https://saadiagabriel.com/), [Pavel Izmailov](https://izmailovpavel.github.io/)  
-Preprint.<span class="pc-links"><a href="https://arxiv.org/abs/2604.18574">Paper</a><a href="https://salmanrahman.net/rlvr-weak-supervision">Project Page</a></span>
-
-</div>
-</div>
-
-# 🎖 Honors and Awards
-- ICML 2026 Gold Reviewer, 2026
-- Outstanding Paper Award, EMNLP 2025
-- MacCracken Fellowship, New York University, 2025
-- Outstanding Graduate Student (Top 1%), Tsinghua University, 2024
-- Excellent Graduate Thesis Award, Tsinghua University, 2024
-- Graduate Fellowship, Columbia University, 2023
-- Outstanding Undergraduate Student, Wuhan University, 2021
-- National Scholarship for Undergraduates, Ministry of Education of China, 2018
-
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -260,13 +274,3 @@ Preprint.<span class="pc-links"><a href="https://arxiv.org/abs/2604.18574">Paper
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
-
-# 👾 Industry Experience
-- *2026.05 - 2026.08*, Research Intern at Microsoft Research (NYC)
-  - I was very fortunate to work with [Stephanie Milani](https://stephmilani.github.io/), [Akshay Krishnamurthy](https://www.microsoft.com/en-us/research/people/akshaykr/), and [Jordan T. Ash](https://www.jordantash.com/).
-- *2024.02 - 2025.06*, Full-time machine learning engineer at Pinterest
-
-# 🐰 Miscs
-I value the diversity and richness of life, and I hold a deep respect for beauty and purity in all their forms. Beyond research, I enjoy playing table tennis and tennis, losing myself in a good book, or discovering new places through travel.
-
-I also love music and singing, and I'd love to keep learning the drums whenever I find the time! 🥁

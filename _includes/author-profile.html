@@ -6,12 +6,12 @@
 
   <div class="author__avatar">
     {% if author.avatar_alt %}
-    <img src="{{ author.avatar }}" class="author__avatar author__avatar--swap" alt="{{ author.name }}"
-         data-alt-src="{{ author.avatar_alt }}" title="Click me!" style="cursor: pointer;"
+    <img src="{{ author.avatar | prepend: "/" | relative_url }}" class="author__avatar author__avatar--swap" alt="{{ author.name }}"
+         data-alt-src="{{ author.avatar_alt | prepend: "/" | relative_url }}" title="Click me!" style="cursor: pointer;"
          onclick="var a = this.getAttribute('data-alt-src'); this.setAttribute('data-alt-src', this.getAttribute('src')); this.setAttribute('src', a);">
-    <link rel="preload" as="image" href="{{ author.avatar_alt }}">
+    <link rel="preload" as="image" href="{{ author.avatar_alt | prepend: "/" | relative_url }}">
     {% else %}
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <img src="{{ author.avatar | prepend: "/" | relative_url }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %}
   </div>
 

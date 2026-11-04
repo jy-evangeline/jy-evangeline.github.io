@@ -1,10 +1,18 @@
 ---
-permalink: /life/
-title: "Life"
+permalink: /miscs/
+title: ""
+redirect_from:
+  - /life/
 author_profile: false
 ---
 
-Beyond research, I enjoy reading, traveling, table tennis, and music. A bookshelf and a small photo gallery are coming soon.
+# Miscs
+
+I value the diversity and richness of life, and I hold a deep respect for beauty and purity in all their forms. Beyond research, I enjoy playing table tennis and tennis, losing myself in a good book, or discovering new places through travel.
+
+I also love music and singing, and I'd love to keep learning the drums whenever I find the time! 🥁
+
+A bookshelf and a small photo gallery are coming soon.
 
 <!--
 ## 📚 Bookshelf

@@ -3,6 +3,16 @@
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
 
+<!-- Open external links in a new tab; site links (top nav, anchors) stay in place -->
+<script>
+  document.querySelectorAll('a[href]').forEach(function (a) {
+    if (a.hostname && a.hostname !== location.hostname) {
+      a.target = '_blank';
+      a.rel = 'noopener';
+    }
+  });
+</script>
+
 <!-- Click a paper figure to enlarge it -->
 <div class="fig-lb" id="fig-lb" hidden>
   <div class="fig-lb-panel"><img alt=""><p></p></div>
@@ -15,7 +25,7 @@
       lb.classList.remove('open');
       setTimeout(function () { lb.hidden = true; }, 220);
     }
-    document.querySelectorAll('.paper-box-image > div').forEach(function (frame) {
+    document.querySelectorAll('.paper-box-image > div, .pc-fig').forEach(function (frame) {
       frame.addEventListener('click', function () {
         var src = frame.querySelector('img');
         img.src = src.src;
