@@ -167,6 +167,17 @@ I am also fortunate to work with many great scholars and mentors, and I’m deep
   </li>
   <li class="pc">
     <div class="pc-side">
+      <div class="pc-fig"><img src="images/papers/data-attribution-survey.png" alt="A Survey of Data Attribution: Methods, Applications, and Evaluation in the Era of Generative AI"></div>
+      <span class="pc-venue">JAIR 2026</span>
+    </div>
+    <div>
+      <a class="pc-title" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5451054">A Survey of Data Attribution: Methods, Applications, and Evaluation in the Era of Generative AI</a>
+      <span class="pc-authors">Junwei Deng<sup>†</sup>, Yuzheng Hu<sup>†</sup>, Pingbang Hu<sup>†</sup>, Ting-Wei Li<sup>†</sup>, Shixuan Liu<sup>†</sup>, …, <b>Jingyan Shen</b>, …, Jieyu Zhao, Hanghang Tong, Han Zhao, Jiaqi W. Ma</span>
+      <span class="pc-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5451054">Paper</a></span>
+    </div>
+  </li>
+  <li class="pc">
+    <div class="pc-side">
       <div class="pc-fig"><img src="images/papers/weak-supervision.png" alt="When Can LLMs Learn to Reason with Weak Supervision?"></div>
       <span class="pc-venue">Preprint</span>
     </div>
